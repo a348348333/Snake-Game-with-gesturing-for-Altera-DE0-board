@@ -1,0 +1,326 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU architecture type not set. ",1521775034782
+error,log,,,"CPU master group not set.",1521775034785
+error,log,,,"SOPC design not set.",1521775034790
+error,log,,,"CPU module not set.",1521775034793
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775034797
+error,log,,,"CPU architecture type not set. ",1521775034800
+error,log,,,"CPU master group not set.",1521775034803
+error,log,,,"SOPC design not set.",1521775034816
+error,log,,,"CPU module not set.",1521775034819
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775034823
+error,log,,,"CPU architecture type not set. ",1521775034826
+error,log,,,"CPU master group not set.",1521775034829
+error,log,,,"Connected system ID hash not found on target at expected base address.",1521775034832
+error,log,,,"Connected system timestamp not found on target at expected base address.",1521775034836
+error,log,,,"SOPC design not set.",1521775034839
+error,log,,,"CPU module not set.",1521775034842
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775034845
+error,log,,,"CPU architecture type not set. ",1521775034848
+error,log,,,"CPU master group not set.",1521775034852
+error,log,,,"Connected system ID hash not found on target at expected base address.",1521775034855
+error,log,,,"Connected system timestamp not found on target at expected base address.",1521775034858
+error,log,,,"SOPC design not set.",1521775034867
+error,log,,,"CPU module not set.",1521775034870
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775034874
+error,log,,,"CPU architecture type not set. ",1521775034878
+error,log,,,"CPU master group not set.",1521775034882
+error,log,,,"SOPC design not set.",1521775034889
+error,log,,,"CPU module not set.",1521775034893
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775034896
+error,log,,,"CPU architecture type not set. ",1521775034900
+error,log,,,"CPU master group not set.",1521775034904
+error,log,,,"SOPC design not set.",1521775034911
+error,log,,,"CPU module not set.",1521775034914
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775034918
+error,log,,,"SOPC design not set.",1521775034921
+error,log,,,"CPU architecture type not set. ",1521775034925
+error,log,,,"CPU module not set.",1521775034928
+error,log,,,"CPU master group not set.",1521775034931
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775034934
+error,log,,,"CPU architecture type not set. ",1521775034941
+error,log,,,"CPU master group not set.",1521775034947
+error,log,,,"SOPC design not set.",1521775035058
+error,log,,,"CPU module not set.",1521775035061
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775035064
+error,log,,,"CPU architecture type not set. ",1521775035067
+error,log,,,"CPU master group not set.",1521775035070
+executed,command,,,"com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchShortcut.run",1521775035150
+started,bundle,org.eclipse.cdt.launch,6.0.0.201002161416,"org.eclipse.cdt.launch",1521775035155
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1521775036583
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1521775037053
+activated,perspective,com.altera.sbtgui.ui,,"com.altera.sbtgui.ui.cPerspective",1521775067762
+started,bundle,org.eclipse.osgi,3.5.2.R35x_v20100126,"org.eclipse.osgi",1521775067762
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.101.R35x_v20090807-1100,"org.eclipse.equinox.simpleconfigurator",1521775067763
+started,bundle,com.ibm.icu,4.0.1.v20090822,"com.ibm.icu",1521775067763
+started,bundle,org.eclipse.core.contenttype,3.4.1.R35x_v20090826-0451,"org.eclipse.core.contenttype",1521775067763
+started,bundle,org.eclipse.core.databinding.observable,1.2.0.M20090902-0800,"org.eclipse.core.databinding.observable",1521775067764
+started,bundle,org.eclipse.core.filebuffers,3.5.0.v20090526-2000,"org.eclipse.core.filebuffers",1521775067764
+started,bundle,org.eclipse.core.jobs,3.4.100.v20090429-1800,"org.eclipse.core.jobs",1521775067765
+started,bundle,org.eclipse.core.net,1.2.1.r35x_20090812-1200,"org.eclipse.core.net",1521775067765
+started,bundle,org.eclipse.core.runtime,3.5.0.v20090525,"org.eclipse.core.runtime",1521775067766
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.0.v20090413,"org.eclipse.core.runtime.compatibility",1521775067766
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.100.v20090413,"org.eclipse.core.runtime.compatibility.auth",1521775067766
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1521775067766
+started,bundle,org.eclipse.ecf,3.0.0.v20090831-1906,"org.eclipse.ecf",1521775067767
+started,bundle,org.eclipse.ecf.filetransfer,3.0.0.v20090831-1906,"org.eclipse.ecf.filetransfer",1521775067768
+started,bundle,org.eclipse.ecf.identity,3.0.0.v20090831-1906,"org.eclipse.ecf.identity",1521775067768
+started,bundle,org.eclipse.ecf.provider.filetransfer,3.0.1.v20090831-1906,"org.eclipse.ecf.provider.filetransfer",1521775067768
+started,bundle,org.eclipse.ecf.provider.filetransfer.httpclient,3.0.1.v20090831-1906,"org.eclipse.ecf.provider.filetransfer.httpclient",1521775067769
+started,bundle,org.eclipse.equinox.common,3.5.1.R35x_v20090807-1100,"org.eclipse.equinox.common",1521775067769
+started,bundle,org.eclipse.equinox.ds,1.1.1.R35x_v20090806,"org.eclipse.equinox.ds",1521775067769
+started,bundle,org.eclipse.equinox.frameworkadmin,1.0.100.v20090520-1905,"org.eclipse.equinox.frameworkadmin",1521775067770
+started,bundle,org.eclipse.equinox.p2.core,1.0.101.R35x_v20090819,"org.eclipse.equinox.p2.core",1521775067772
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.100.v20090525,"org.eclipse.equinox.p2.directorywatcher",1521775067773
+started,bundle,org.eclipse.equinox.p2.exemplarysetup,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.exemplarysetup",1521775067773
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.garbagecollector",1521775067773
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.0.101.R35x_v20090812,"org.eclipse.equinox.p2.metadata.repository",1521775067774
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.reconciler.dropins",1521775067774
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.scheduler",1521775067774
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.0.v20090520-1905,"org.eclipse.equinox.p2.updatechecker",1521775067775
+started,bundle,org.eclipse.equinox.registry,3.4.100.v20090520-1800,"org.eclipse.equinox.registry",1521775067775
+started,bundle,org.eclipse.equinox.security,1.0.100.v20090520-1800,"org.eclipse.equinox.security",1521775067775
+started,bundle,org.eclipse.equinox.util,1.0.100.v20090520-1800,"org.eclipse.equinox.util",1521775067776
+started,bundle,org.eclipse.help,3.4.1.v20090805_35x,"org.eclipse.help",1521775067776
+started,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1521775067776
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1521775067777
+started,bundle,org.eclipse.mylyn.commons.net,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.commons.net",1521775067777
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1521775067777
+started,bundle,org.eclipse.team.ui,3.5.0.I20090430-0408,"org.eclipse.team.ui",1521775067777
+started,bundle,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console",1521775067778
+started,bundle,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.editors",1521775067778
+started,bundle,org.eclipse.ui.forms,3.4.1.v20090714_35x,"org.eclipse.ui.forms",1521775067779
+started,bundle,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.resources",1521775067779
+started,bundle,org.eclipse.ui.net,1.2.1.r35x_20090812-1200,"org.eclipse.ui.net",1521775067780
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1521775067780
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1521775067780
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1521775067781
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1521775067781
+started,bundle,com.altera.sbtgui.integration,10.1.0.153,"com.altera.sbtgui.integration",1521775067782
+started,bundle,com.altera.sbtgui.launch,10.1.0.153,"com.altera.sbtgui.launch",1521775067782
+started,bundle,com.altera.sbtgui.project,10.1.0.153,"com.altera.sbtgui.project",1521775067782
+started,bundle,com.altera.sbtgui.ui,10.1.0.153,"com.altera.sbtgui.ui",1521775067783
+started,bundle,com.altera.systemconsole,10.1.0.153,"com.altera.systemconsole",1521775067783
+started,bundle,com.altera.utilities,10.1.0.153,"com.altera.utilities",1521775067783
+started,bundle,org.eclipse.cdt.core,5.1.2.201002161416,"org.eclipse.cdt.core",1521775067783
+started,bundle,org.eclipse.cdt.make.core,6.0.0.201002161416,"org.eclipse.cdt.make.core",1521775067783
+started,bundle,org.eclipse.cdt.make.ui,6.0.1.201002161416,"org.eclipse.cdt.make.ui",1521775067784
+started,bundle,org.eclipse.cdt.managedbuilder.core,6.0.0.201002161416,"org.eclipse.cdt.managedbuilder.core",1521775067786
+started,bundle,org.eclipse.cdt.managedbuilder.gnu.ui,5.0.100.201002161416,"org.eclipse.cdt.managedbuilder.gnu.ui",1521775067786
+started,bundle,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui",1521775067787
+started,bundle,org.eclipse.core.expressions,3.4.101.R35x_v20100209,"org.eclipse.core.expressions",1521775067787
+started,bundle,org.eclipse.core.filesystem,1.2.1.R35x_v20091203-1235,"org.eclipse.core.filesystem",1521775067788
+started,bundle,org.eclipse.core.resources,3.5.2.R35x_v20091203-1235,"org.eclipse.core.resources",1521775067788
+started,bundle,org.eclipse.debug.core,3.5.1.v20091103_r352,"org.eclipse.debug.core",1521775067789
+started,bundle,org.eclipse.epp.usagedata.gathering,1.1.1.R201001291118,"org.eclipse.epp.usagedata.gathering",1521775067789
+started,bundle,org.eclipse.epp.usagedata.recording,1.1.1.R201001291118,"org.eclipse.epp.usagedata.recording",1521775067789
+started,bundle,org.eclipse.equinox.app,1.2.1.R35x_v20091203,"org.eclipse.equinox.app",1521775067790
+started,bundle,org.eclipse.equinox.frameworkadmin.equinox,1.0.101.R35x_v20091214,"org.eclipse.equinox.frameworkadmin.equinox",1521775067790
+started,bundle,org.eclipse.equinox.p2.director,1.0.101.R35x_v20100112,"org.eclipse.equinox.p2.director",1521775067790
+started,bundle,org.eclipse.equinox.p2.engine,1.0.102.R35x_v20091117,"org.eclipse.equinox.p2.engine",1521775067791
+started,bundle,org.eclipse.equinox.p2.repository,1.0.1.R35x_v20100105,"org.eclipse.equinox.p2.repository",1521775067791
+started,bundle,org.eclipse.equinox.preferences,3.2.301.R35x_v20091117,"org.eclipse.equinox.preferences",1521775067791
+started,bundle,org.eclipse.equinox.simpleconfigurator.manipulator,1.0.101.R35x_v20100209,"org.eclipse.equinox.simpleconfigurator.manipulator",1521775067792
+started,bundle,org.eclipse.jface,3.5.2.M20100120-0800,"org.eclipse.jface",1521775067792
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1521775067792
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1521775067793
+started,bundle,org.eclipse.mylyn.commons.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.commons.ui",1521775067793
+started,bundle,org.eclipse.mylyn.context.core,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.context.core",1521775067793
+started,bundle,org.eclipse.mylyn.context.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.context.ui",1521775067793
+started,bundle,org.eclipse.mylyn.monitor.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.monitor.ui",1521775067794
+started,bundle,org.eclipse.mylyn.tasks.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.tasks.ui",1521775067794
+started,bundle,org.eclipse.mylyn.team.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.team.ui",1521775067795
+started,bundle,org.eclipse.team.core,3.5.1.r35x_20100113-0800,"org.eclipse.team.core",1521775067795
+started,bundle,org.eclipse.team.cvs.ui,3.3.202.r35x_20090930-0800,"org.eclipse.team.cvs.ui",1521775067796
+started,bundle,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui",1521775067796
+started,bundle,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.ide",1521775067797
+started,bundle,org.eclipse.ui.navigator,3.4.2.M20100120-0800,"org.eclipse.ui.navigator",1521775067798
+started,bundle,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"org.eclipse.ui.workbench",1521775067800
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.1.r352_v20100105,"org.eclipse.ui.workbench.texteditor",1521775067801
+os,sysinfo,,,"win32",1521775067802
+arch,sysinfo,,,"x86",1521775067802
+ws,sysinfo,,,"win32",1521775067802
+locale,sysinfo,,,"zh_TW",1521775067802
+processors,sysinfo,,,"8",1521775067802
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1521775067802
+java.runtime.version,sysinfo,,,"1.6.0_14-b08",1521775067802
+java.specification.name,sysinfo,,,"Java Platform API Specification",1521775067802
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1521775067802
+java.specification.version,sysinfo,,,"1.6",1521775067802
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1521775067802
+java.version,sysinfo,,,"1.6.0_14",1521775067802
+java.vm.info,sysinfo,,,"mixed mode",1521775067802
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1521775067802
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1521775067802
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1521775067802
+java.vm.specification.version,sysinfo,,,"1.0",1521775067802
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1521775067802
+java.vm.version,sysinfo,,,"14.0-b16",1521775067802
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1521775068597
+started,bundle,com.altera.sbtgui.core,10.1.0.153,"com.altera.sbtgui.core",1521775068916
+started,bundle,org.eclipse.search,3.5.1.r351_v20090708-0800,"org.eclipse.search",1521775068922
+started,bundle,org.eclipse.compare,3.5.2.r35x_20100113-0800,"org.eclipse.compare",1521775068961
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.project.buildProject",1521775070207
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1521775070482
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1521775070497
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1521775071886
+started,bundle,org.eclipse.debug.ui,3.5.2.v20091028_r352,"org.eclipse.debug.ui",1521775075227
+started,bundle,org.eclipse.cdt.debug.core,6.0.0.201002161416,"org.eclipse.cdt.debug.core",1521775075244
+started,bundle,org.eclipse.cdt.debug.ui,6.0.0.201002161416,"org.eclipse.cdt.debug.ui",1521775075246
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1521775078518
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1521775080464
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.project.buildProject",1521775082093
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1521775082357
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1521775083375
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1521775089955
+error,log,,,"SOPC design not set.",1521775101882
+error,log,,,"CPU module not set.",1521775101885
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775101889
+error,log,,,"CPU architecture type not set. ",1521775101892
+error,log,,,"CPU master group not set.",1521775101895
+error,log,,,"SOPC design not set.",1521775101900
+error,log,,,"CPU module not set.",1521775101903
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775101906
+error,log,,,"CPU architecture type not set. ",1521775101910
+error,log,,,"CPU master group not set.",1521775101913
+started,bundle,org.eclipse.cdt.launch,6.0.0.201002161416,"org.eclipse.cdt.launch",1521775101917
+error,log,,,"SOPC design not set.",1521775101927
+error,log,,,"CPU module not set.",1521775101930
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775101933
+error,log,,,"CPU architecture type not set. ",1521775101936
+error,log,,,"CPU master group not set.",1521775101940
+error,log,,,"Connected system ID hash not found on target at expected base address.",1521775101943
+error,log,,,"Connected system timestamp not found on target at expected base address.",1521775101946
+error,log,,,"SOPC design not set.",1521775101949
+error,log,,,"CPU module not set.",1521775101952
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775101956
+error,log,,,"CPU architecture type not set. ",1521775101959
+error,log,,,"CPU master group not set.",1521775101962
+error,log,,,"Connected system ID hash not found on target at expected base address.",1521775101965
+error,log,,,"Connected system timestamp not found on target at expected base address.",1521775101969
+error,log,,,"SOPC design not set.",1521775101972
+error,log,,,"CPU module not set.",1521775101975
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775101978
+error,log,,,"CPU architecture type not set. ",1521775101981
+error,log,,,"CPU master group not set.",1521775101985
+error,log,,,"Select one of the available target connection paths.",1521775101988
+error,log,,,"SOPC design not set.",1521775101993
+error,log,,,"CPU module not set.",1521775101997
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775102000
+error,log,,,"CPU architecture type not set. ",1521775102003
+error,log,,,"CPU master group not set.",1521775102006
+error,log,,,"Select one of the available target connection paths.",1521775102009
+error,log,,,"SOPC design not set.",1521775102012
+error,log,,,"CPU module not set.",1521775102015
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775102018
+error,log,,,"CPU architecture type not set. ",1521775102021
+error,log,,,"CPU master group not set.",1521775102025
+error,log,,,"Expected base address of system ID component is undefined.",1521775102028
+error,log,,,"Select one of the available target connection paths.",1521775102031
+error,log,,,"SOPC design not set.",1521775102034
+error,log,,,"CPU module not set.",1521775102037
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775102040
+error,log,,,"CPU architecture type not set. ",1521775102043
+error,log,,,"CPU master group not set.",1521775102046
+error,log,,,"Expected base address of system ID component is undefined.",1521775102051
+error,log,,,"Select one of the available target connection paths.",1521775102054
+error,log,,,"SOPC design not set.",1521775102058
+error,log,,,"CPU module not set.",1521775102061
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775102064
+error,log,,,"CPU architecture type not set. ",1521775102068
+error,log,,,"CPU master group not set.",1521775102071
+error,log,,,"Expected base address of system ID component is undefined.",1521775102074
+error,log,,,"Select one of the available target connection paths.",1521775102077
+error,log,,,"SOPC design not set.",1521775102081
+error,log,,,"CPU module not set.",1521775102084
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775102087
+error,log,,,"CPU architecture type not set. ",1521775102090
+error,log,,,"CPU master group not set.",1521775102094
+error,log,,,"Expected base address of system ID component is undefined.",1521775102097
+error,log,,,"Select one of the available target connection paths.",1521775102100
+error,log,,,"sun.awt.X11.XlibWrapper",1521775102516
+error,log,,,"SOPC design not set.",1521775103618
+error,log,,,"CPU module not set.",1521775103622
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775103625
+error,log,,,"CPU architecture type not set. ",1521775103628
+error,log,,,"CPU master group not set.",1521775103632
+error,log,,,"Expected base address of system ID component is undefined.",1521775103635
+error,log,,,"SOPC design not set.",1521775103639
+error,log,,,"CPU module not set.",1521775103643
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775103646
+error,log,,,"CPU architecture type not set. ",1521775103649
+error,log,,,"CPU master group not set.",1521775103653
+error,log,,,"Expected base address of system ID component is undefined.",1521775103657
+error,log,,,"SOPC design not set.",1521775103661
+error,log,,,"CPU module not set.",1521775103664
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775103667
+error,log,,,"CPU architecture type not set. ",1521775103671
+error,log,,,"CPU master group not set.",1521775103674
+error,log,,,"Expected base address of system ID component is undefined.",1521775103677
+error,log,,,"SOPC design not set.",1521775103680
+error,log,,,"CPU module not set.",1521775103683
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775103687
+error,log,,,"CPU architecture type not set. ",1521775103690
+error,log,,,"CPU master group not set.",1521775103693
+error,log,,,"Connected system ID hash not found on target at expected base address.",1521775103696
+error,log,,,"Connected system timestamp not found on target at expected base address.",1521775103700
+error,log,,,"SOPC design not set.",1521775103705
+error,log,,,"CPU module not set.",1521775103708
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775103712
+error,log,,,"CPU architecture type not set. ",1521775103715
+error,log,,,"CPU master group not set.",1521775103718
+error,log,,,"SOPC design not set.",1521775103725
+error,log,,,"CPU module not set.",1521775103728
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775103731
+error,log,,,"CPU architecture type not set. ",1521775103735
+error,log,,,"SOPC design not set.",1521775103738
+error,log,,,"CPU master group not set.",1521775103741
+error,log,,,"CPU module not set.",1521775103745
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775103751
+error,log,,,"SOPC design not set.",1521775103754
+error,log,,,"CPU architecture type not set. ",1521775103758
+error,log,,,"CPU module not set.",1521775103761
+error,log,,,"CPU master group not set.",1521775103764
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775103768
+error,log,,,"CPU architecture type not set. ",1521775103774
+error,log,,,"CPU master group not set.",1521775103777
+started,bundle,com.altera.debug.cdi.gdb.plugin,10.1.0.153,"com.altera.debug.cdi.gdb.plugin",1521775103804
+error,log,,,"SOPC design not set.",1521775103877
+error,log,,,"CPU module not set.",1521775103881
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775103885
+error,log,,,"CPU architecture type not set. ",1521775103888
+error,log,,,"CPU master group not set.",1521775103892
+error,log,,,"SOPC design not set.",1521775106400
+error,log,,,"CPU module not set.",1521775106403
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775106406
+error,log,,,"CPU architecture type not set. ",1521775106409
+error,log,,,"CPU master group not set.",1521775106413
+error,log,,,"SOPC design not set.",1521775106416
+error,log,,,"CPU module not set.",1521775106419
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775106422
+error,log,,,"CPU architecture type not set. ",1521775106425
+error,log,,,"CPU master group not set.",1521775106429
+error,log,,,"Expected base address of system ID component is undefined.",1521775106432
+error,log,,,"SOPC design not set.",1521775106435
+error,log,,,"CPU module not set.",1521775106438
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775106442
+error,log,,,"CPU architecture type not set. ",1521775106446
+error,log,,,"CPU master group not set.",1521775106449
+error,log,,,"Expected base address of system ID component is undefined.",1521775106452
+error,log,,,"SOPC design not set.",1521775106455
+error,log,,,"CPU module not set.",1521775106458
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775106461
+error,log,,,"CPU architecture type not set. ",1521775106464
+error,log,,,"CPU master group not set.",1521775106468
+error,log,,,"Expected base address of system ID component is undefined.",1521775106471
+error,log,,,"SOPC design not set.",1521775106474
+error,log,,,"CPU module not set.",1521775106477
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775106480
+error,log,,,"CPU architecture type not set. ",1521775106483
+error,log,,,"CPU master group not set.",1521775106486
+error,log,,,"Expected base address of system ID component is undefined.",1521775106489
+error,log,,,"SOPC design not set.",1521775107279
+error,log,,,"CPU module not set.",1521775107282
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1521775107286
+error,log,,,"CPU architecture type not set. ",1521775107289
+error,log,,,"CPU master group not set.",1521775107292

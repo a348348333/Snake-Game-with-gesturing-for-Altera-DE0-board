@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.project.buildProject",1522381089704
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381089967
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381104857
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1522381106875
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522381110110
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1522381116676
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.101.r352_v20100209,"org.eclipse.ltk.ui.refactoring",1522381120684
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381120753
+closed,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522381123076
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381123133
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.101.r352_v20100209,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1522381123137
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.delete",1522381123137
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522381124439
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1522381128507
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1522381133673
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.project.buildProject",1522381146894
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381147156
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381149746
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1522381153729
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522381154526
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.save",1522381163319
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1522381165706
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.project.buildProject",1522381170439
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381170701
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381173272
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1522381175154
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522381180597
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1522381182666
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381186812
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381187957
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.101.r352_v20100209,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1522381187961
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.delete",1522381187961
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.project.buildProject",1522381193641
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381193914
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381195191
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1522381196970
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522381199815
+executed,command,,,"AUTOGEN:::org.eclipse.ui.texteditor.ruler.actions/org.eclipse.cdt.internal.ui.text.correction.CSelectRulerAction",1522381201719
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.save",1522381224328
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1522381225770
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381228446
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381684244
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522381684254
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381688627
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381689564
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381690970
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381743972
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1522381747913
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381766027
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381791859
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1522381804013
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381807657
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381807693
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381811545
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381811852
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.project.buildProject",1522381815410
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381815675
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381827611
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1522381832932
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522381836440
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1522381858349
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522381862736
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381877204
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381892075
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1522381911367
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522381917811
+opened,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.TaskList",1522381926198
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.TaskList",1522381926251
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1522381927436
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1522381929691
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381934548
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522381984363
+activated,perspective,com.altera.sbtgui.ui,10.1.0.153,"com.altera.sbtgui.ui.cPerspective",1522381984378
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1522381984381
+opened,view,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.CView",1522382007920
+activated,view,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.CView",1522382007939
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.views.showView",1522382007939
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382032724
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382043430
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.newWizard",1522382043434
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382043694
+opened,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382043734
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382043761
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382043769
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382043782
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382046207
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382046345
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.selectAll",1522382048104
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.copy",1522382048395
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382049453
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.selectAll",1522382050133
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.paste",1522382050507
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.save",1522382052381
+activated,view,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.CView",1522382053348
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382056803
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382070543
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1522382071017
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382085516
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.save",1522382098160
+activated,view,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.CView",1522382099293
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382106650
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382111276
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382111548
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382115012
+started,bundle,org.eclipse.debug.ui,3.5.2.v20091028_r352,"org.eclipse.debug.ui",1522382138950
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382140566
+started,bundle,org.eclipse.cdt.debug.core,6.0.0.201002161416,"org.eclipse.cdt.debug.core",1522382150220
+started,bundle,org.eclipse.cdt.launch,6.0.0.201002161416,"org.eclipse.cdt.launch",1522382150220
+error,log,,,"SOPC design not set.",1522382150231
+error,log,,,"CPU module not set.",1522382150234
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382150238
+error,log,,,"CPU architecture type not set. ",1522382150241
+error,log,,,"CPU master group not set.",1522382150244
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382150248
+error,log,,,"SOPC design not set.",1522382150252
+error,log,,,"CPU module not set.",1522382150259
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382150263
+error,log,,,"CPU architecture type not set. ",1522382150266
+error,log,,,"CPU master group not set.",1522382150270
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382150273
+error,log,,,"SOPC design not set.",1522382150277
+error,log,,,"CPU module not set.",1522382150280
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382150284
+error,log,,,"CPU architecture type not set. ",1522382150287
+error,log,,,"CPU master group not set.",1522382150290
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382150294
+error,log,,,"SOPC design not set.",1522382150298
+error,log,,,"CPU module not set.",1522382150302
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382150306
+error,log,,,"CPU architecture type not set. ",1522382150310
+error,log,,,"CPU master group not set.",1522382150313
+error,log,,,"Expected base address of system ID component is undefined.",1522382150317
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382150320
+error,log,,,"SOPC design not set.",1522382150324
+error,log,,,"CPU module not set.",1522382150327
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382150331
+error,log,,,"CPU architecture type not set. ",1522382150334
+error,log,,,"CPU master group not set.",1522382150338
+error,log,,,"Expected base address of system ID component is undefined.",1522382150341
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382150345
+error,log,,,"SOPC design not set.",1522382150348
+error,log,,,"CPU module not set.",1522382150351
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382150355
+error,log,,,"CPU architecture type not set. ",1522382150358
+error,log,,,"CPU master group not set.",1522382150362
+error,log,,,"Expected base address of system ID component is undefined.",1522382150365
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382150368
+error,log,,,"SOPC design not set.",1522382150371
+error,log,,,"CPU module not set.",1522382150375
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382150378
+error,log,,,"CPU architecture type not set. ",1522382150382
+error,log,,,"CPU master group not set.",1522382150386
+error,log,,,"Expected base address of system ID component is undefined.",1522382150390
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382150393
+error,log,,,"sun.awt.X11.XlibWrapper",1522382150950
+error,log,,,"SOPC design not set.",1522382154642
+error,log,,,"CPU module not set.",1522382154646
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382154649
+error,log,,,"CPU architecture type not set. ",1522382154653
+error,log,,,"CPU master group not set.",1522382154656
+error,log,,,"Expected base address of system ID component is undefined.",1522382154660
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154663
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154666
+error,log,,,"SOPC design not set.",1522382154670
+error,log,,,"CPU module not set.",1522382154674
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382154677
+error,log,,,"CPU architecture type not set. ",1522382154680
+error,log,,,"CPU master group not set.",1522382154684
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154687
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154691
+error,log,,,"SOPC design not set.",1522382154695
+error,log,,,"CPU module not set.",1522382154700
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382154704
+error,log,,,"CPU architecture type not set. ",1522382154708
+error,log,,,"CPU master group not set.",1522382154712
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154715
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154719
+error,log,,,"SOPC design not set.",1522382154723
+error,log,,,"CPU module not set.",1522382154727
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382154730
+error,log,,,"CPU architecture type not set. ",1522382154734
+error,log,,,"CPU master group not set.",1522382154737
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154740
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154744
+error,log,,,"SOPC design not set.",1522382154747
+error,log,,,"CPU module not set.",1522382154751
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382154754
+error,log,,,"CPU architecture type not set. ",1522382154757
+error,log,,,"CPU master group not set.",1522382154760
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154764
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154767
+started,bundle,org.eclipse.cdt.debug.ui,6.0.0.201002161416,"org.eclipse.cdt.debug.ui",1522382154825
+started,bundle,com.altera.debug.cdi.gdb.plugin,10.1.0.153,"com.altera.debug.cdi.gdb.plugin",1522382154877
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154939
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154943
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154973
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382154977
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155312
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155316
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155334
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155338
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155344
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155347
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155364
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155368
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155372
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155376
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155394
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155398
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155402
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155406
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155423
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155427
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155433
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155436
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155454
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155458
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155463
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155467
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155484
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155487
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155492
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155496
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155514
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382155517
+error,log,,,"SOPC design not set.",1522382157161
+error,log,,,"CPU module not set.",1522382157165
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382157168
+error,log,,,"CPU architecture type not set. ",1522382157172
+error,log,,,"CPU master group not set.",1522382157175
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382157179
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382157182
+error,log,,,"SOPC design not set.",1522382157186
+error,log,,,"CPU module not set.",1522382157189
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382157193
+error,log,,,"CPU architecture type not set. ",1522382157197
+error,log,,,"CPU master group not set.",1522382157200
+error,log,,,"Expected base address of system ID component is undefined.",1522382157203
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382157207
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382157210
+error,log,,,"SOPC design not set.",1522382157214
+error,log,,,"CPU module not set.",1522382157217
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382157220
+error,log,,,"CPU architecture type not set. ",1522382157224
+error,log,,,"CPU master group not set.",1522382157228
+error,log,,,"Expected base address of system ID component is undefined.",1522382157235
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382157239
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382157242
+error,log,,,"SOPC design not set.",1522382157245
+error,log,,,"CPU module not set.",1522382157249
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382157252
+error,log,,,"CPU architecture type not set. ",1522382157256
+error,log,,,"CPU master group not set.",1522382157260
+error,log,,,"Expected base address of system ID component is undefined.",1522382157263
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382157267
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382157270
+error,log,,,"SOPC design not set.",1522382157273
+error,log,,,"CPU module not set.",1522382157277
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382157280
+error,log,,,"CPU architecture type not set. ",1522382157283
+error,log,,,"CPU master group not set.",1522382157286
+error,log,,,"Expected base address of system ID component is undefined.",1522382157290
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382157293
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382157296
+error,log,,,"No ELF file path has been selected.",1522382157391
+error,log,,,"Expected base address of system ID component is undefined.",1522382157397
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382157401
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382157404
+error,log,,,"No ELF file path has been selected.",1522382157428
+error,log,,,"SOPC design not set.",1522382160041
+error,log,,,"CPU module not set.",1522382160044
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382160048
+error,log,,,"CPU architecture type not set. ",1522382160052
+error,log,,,"CPU master group not set.",1522382160055
+error,log,,,"Expected base address of system ID component is undefined.",1522382160059

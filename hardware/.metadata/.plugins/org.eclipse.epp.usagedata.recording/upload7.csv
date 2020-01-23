@@ -1,0 +1,301 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU architecture type not set. ",1522382190116
+error,log,,,"CPU master group not set.",1522382190120
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190124
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190128
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190166
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190170
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190193
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190197
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190487
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190491
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190508
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190512
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190518
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190521
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190539
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190543
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190547
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190551
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190569
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190572
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190576
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190580
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190598
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190601
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190606
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190613
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190631
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382190634
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382192237
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382192241
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382195440
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382195443
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382196098
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382196102
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382196127
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382196131
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382196135
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382196138
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382196981
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382196985
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382197621
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382197625
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382198494
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382198498
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382218793
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382218796
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382218854
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382218858
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382220926
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382220930
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382220958
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382220961
+error,log,,,"SOPC design not set.",1522382242648
+error,log,,,"CPU module not set.",1522382242653
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382242658
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242663
+error,log,,,"CPU architecture type not set. ",1522382242667
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242670
+error,log,,,"CPU master group not set.",1522382242674
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242678
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242683
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242686
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242690
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242694
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242698
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242714
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242718
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242724
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242728
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242747
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242751
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242756
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242760
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242778
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242782
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242788
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242793
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242810
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242816
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242822
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242829
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242854
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242858
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242864
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242868
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242889
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242893
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1522382242907
+error,log,,,"SOPC design not set.",1522382242921
+error,log,,,"CPU module not set.",1522382242925
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382242929
+error,log,,,"CPU architecture type not set. ",1522382242937
+error,log,,,"CPU master group not set.",1522382242942
+error,log,,,"SOPC design not set.",1522382242959
+error,log,,,"SOPC design not set.",1522382242963
+error,log,,,"CPU module not set.",1522382242968
+error,log,,,"CPU module not set.",1522382242972
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382242976
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382242979
+error,log,,,"CPU architecture type not set. ",1522382242983
+error,log,,,"CPU architecture type not set. ",1522382242988
+error,log,,,"CPU master group not set.",1522382242996
+error,log,,,"CPU master group not set.",1522382243000
+error,log,,,"SOPC design not set.",1522382243020
+error,log,,,"CPU module not set.",1522382243024
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243028
+error,log,,,"CPU architecture type not set. ",1522382243032
+error,log,,,"CPU master group not set.",1522382243035
+error,log,,,"SOPC design not set.",1522382243047
+error,log,,,"CPU module not set.",1522382243051
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243055
+error,log,,,"CPU architecture type not set. ",1522382243062
+error,log,,,"CPU master group not set.",1522382243066
+error,log,,,"SOPC design not set.",1522382243075
+error,log,,,"CPU module not set.",1522382243078
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243082
+error,log,,,"CPU architecture type not set. ",1522382243089
+error,log,,,"CPU master group not set.",1522382243097
+error,log,,,"SOPC design not set.",1522382243107
+error,log,,,"CPU module not set.",1522382243112
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243116
+error,log,,,"CPU architecture type not set. ",1522382243119
+error,log,,,"CPU master group not set.",1522382243123
+error,log,,,"SOPC design not set.",1522382243135
+error,log,,,"CPU module not set.",1522382243139
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243143
+error,log,,,"CPU architecture type not set. ",1522382243151
+error,log,,,"CPU master group not set.",1522382243154
+error,log,,,"SOPC design not set.",1522382243163
+error,log,,,"SOPC design not set.",1522382243166
+error,log,,,"CPU module not set.",1522382243173
+error,log,,,"CPU module not set.",1522382243177
+error,log,,,"Select one of the available target connection paths.",1522382243180
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243184
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243188
+error,log,,,"CPU architecture type not set. ",1522382243191
+error,log,,,"Select one of the available target connection paths.",1522382243195
+error,log,,,"CPU architecture type not set. ",1522382243198
+error,log,,,"CPU master group not set.",1522382243202
+error,log,,,"CPU master group not set.",1522382243206
+error,log,,,"Select one of the available target connection paths.",1522382243209
+error,log,,,"Select one of the available target connection paths.",1522382243213
+error,log,,,"Select one of the available target connection paths.",1522382243217
+error,log,,,"Select one of the available target connection paths.",1522382243220
+error,log,,,"SOPC design not set.",1522382243224
+error,log,,,"CPU module not set.",1522382243228
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243232
+error,log,,,"CPU architecture type not set. ",1522382243235
+error,log,,,"CPU master group not set.",1522382243239
+error,log,,,"SOPC design not set.",1522382243250
+error,log,,,"SOPC design not set.",1522382243258
+error,log,,,"CPU module not set.",1522382243262
+error,log,,,"CPU module not set.",1522382243266
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243270
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243277
+error,log,,,"CPU architecture type not set. ",1522382243281
+error,log,,,"CPU architecture type not set. ",1522382243285
+error,log,,,"CPU master group not set.",1522382243292
+error,log,,,"CPU master group not set.",1522382243299
+error,log,,,"SOPC design not set.",1522382243303
+error,log,,,"CPU module not set.",1522382243310
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243318
+error,log,,,"CPU architecture type not set. ",1522382243322
+error,log,,,"CPU master group not set.",1522382243325
+error,log,,,"SOPC design not set.",1522382243338
+error,log,,,"CPU module not set.",1522382243342
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243346
+error,log,,,"CPU architecture type not set. ",1522382243349
+error,log,,,"CPU master group not set.",1522382243353
+error,log,,,"SOPC design not set.",1522382243361
+error,log,,,"CPU module not set.",1522382243368
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243372
+error,log,,,"CPU architecture type not set. ",1522382243376
+error,log,,,"CPU master group not set.",1522382243380
+error,log,,,"SOPC design not set.",1522382243387
+error,log,,,"CPU module not set.",1522382243395
+error,log,,,"SOPC design not set.",1522382243399
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243403
+error,log,,,"CPU module not set.",1522382243407
+error,log,,,"CPU architecture type not set. ",1522382243414
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243421
+error,log,,,"CPU master group not set.",1522382243424
+error,log,,,"CPU architecture type not set. ",1522382243428
+error,log,,,"CPU master group not set.",1522382243442
+error,log,,,"SOPC design not set.",1522382243459
+error,log,,,"CPU module not set.",1522382243463
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243470
+error,log,,,"CPU architecture type not set. ",1522382243477
+error,log,,,"CPU master group not set.",1522382243481
+error,log,,,"SOPC design not set.",1522382243499
+error,log,,,"CPU module not set.",1522382243502
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243506
+error,log,,,"CPU architecture type not set. ",1522382243510
+error,log,,,"CPU master group not set.",1522382243513
+error,log,,,"SOPC design not set.",1522382243528
+error,log,,,"CPU module not set.",1522382243535
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243542
+error,log,,,"CPU architecture type not set. ",1522382243549
+error,log,,,"CPU master group not set.",1522382243552
+error,log,,,"SOPC design not set.",1522382243563
+error,log,,,"CPU module not set.",1522382243567
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243575
+error,log,,,"CPU architecture type not set. ",1522382243582
+error,log,,,"CPU master group not set.",1522382243589
+error,log,,,"SOPC design not set.",1522382243604
+error,log,,,"CPU module not set.",1522382243608
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243611
+error,log,,,"CPU architecture type not set. ",1522382243615
+error,log,,,"CPU master group not set.",1522382243622
+error,log,,,"SOPC design not set.",1522382243643
+error,log,,,"CPU module not set.",1522382243647
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243650
+error,log,,,"CPU architecture type not set. ",1522382243654
+error,log,,,"CPU master group not set.",1522382243658
+error,log,,,"SOPC design not set.",1522382243676
+error,log,,,"CPU module not set.",1522382243684
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243691
+error,log,,,"CPU architecture type not set. ",1522382243694
+error,log,,,"CPU master group not set.",1522382243698
+error,log,,,"SOPC design not set.",1522382243710
+error,log,,,"CPU module not set.",1522382243721
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243728
+error,log,,,"CPU architecture type not set. ",1522382243737
+error,log,,,"CPU master group not set.",1522382243741
+error,log,,,"SOPC design not set.",1522382243752
+error,log,,,"CPU module not set.",1522382243756
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243764
+error,log,,,"CPU architecture type not set. ",1522382243771
+error,log,,,"CPU master group not set.",1522382243778
+error,log,,,"SOPC design not set.",1522382243793
+error,log,,,"CPU module not set.",1522382243796
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243800
+error,log,,,"CPU architecture type not set. ",1522382243804
+error,log,,,"CPU master group not set.",1522382243811
+error,log,,,"SOPC design not set.",1522382243832
+error,log,,,"CPU module not set.",1522382243836
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243839
+error,log,,,"CPU architecture type not set. ",1522382243843
+error,log,,,"CPU master group not set.",1522382243847
+error,log,,,"SOPC design not set.",1522382243861
+error,log,,,"CPU module not set.",1522382243867
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243874
+error,log,,,"CPU architecture type not set. ",1522382243881
+error,log,,,"CPU master group not set.",1522382243885
+error,log,,,"SOPC design not set.",1522382243896
+error,log,,,"CPU module not set.",1522382243899
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382243903
+error,log,,,"CPU architecture type not set. ",1522382243910
+error,log,,,"CPU master group not set.",1522382243917
+error,log,,,"SOPC design not set.",1522382247777
+error,log,,,"CPU module not set.",1522382247781
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382247785
+error,log,,,"CPU architecture type not set. ",1522382247789
+error,log,,,"CPU master group not set.",1522382247793
+error,log,,,"SOPC design not set.",1522382248233
+error,log,,,"CPU module not set.",1522382248237
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382248240
+error,log,,,"CPU architecture type not set. ",1522382248243
+error,log,,,"CPU master group not set.",1522382248247
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382253290
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382254624
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382255102
+error,log,,,"SOPC design not set.",1522382255134
+error,log,,,"CPU module not set.",1522382255138
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382255143
+error,log,,,"CPU architecture type not set. ",1522382255146
+error,log,,,"CPU master group not set.",1522382255150
+error,log,,,"SOPC design not set.",1522382255268
+error,log,,,"CPU module not set.",1522382255271
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382255275
+error,log,,,"CPU architecture type not set. ",1522382255278
+error,log,,,"CPU master group not set.",1522382255281
+opened,view,com.altera.sbtgui.launch,10.1.0.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1522382256482
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1522382256643
+started,bundle,org.eclipse.cdt.debug.mi.ui,6.0.0.201002161416,"org.eclipse.cdt.debug.mi.ui",1522382256787
+started,bundle,org.eclipse.cdt.debug.mi.core,6.0.0.201002161416,"org.eclipse.cdt.debug.mi.core",1522382256841
+activated,view,com.altera.sbtgui.launch,10.1.0.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1522382264461
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382271378
+activated,view,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.CView",1522382276589
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382284095
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382291866
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382291888
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.selectAll",1522382303528
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.copy",1522382303795
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382305821
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382306461
+closed,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382306461
+activated,view,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.CView",1522382309814
+closed,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382309814
+activated,view,com.altera.sbtgui.launch,10.1.0.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1522382312061
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382317198
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382325900
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382330904
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382351360
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382363671
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382365401
+activated,view,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.CView",1522382368740
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382372478
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382382690
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.newWizard",1522382382696

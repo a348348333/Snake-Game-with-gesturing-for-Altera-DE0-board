@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include "system.h"
+#include "alt_types.h"
+#include "sys/alt_flash.h"
+
+#define VEC_SIZE 100
+
+int test_flash(void){
+	alt_flash_fd* fd;
+	int ret_code, i;
+	int test_vector[VEC_SIZE];
+	int result_vector[VEC_SIZE];
+
+
+	for(i = 0;i<VEC_SIZE;i++){
+		test_vector[i] = i;
+ 	}
+
+	fd = alt_flash_open_dev(CFI_FLASH_NAME);
+	if(fd){
+
+			ret_code = alt_read_flash(
+				fd,
+				0,
+				result_vector,
+				VEC_SIZE*sizeof(int)
+			for(i = 0;i<VEC_SIZE;i++){
+
+				if(test_vector[i] != result_vector[i]){
+					printf("Index:%d\n",i);
+					printf("Origin:%d,Result:%d\n",
+						test_vector[i],result_vector[i]);
+					printf("Written Error!\n");
+					break;
+				}
+			}
+			if(i ==VEC_SIZE)
+				printf("W/R Testing Pass!");
+
+		alt_flash_close_dev(fd);
+	}else{printf("Failed to open Flash\r\n");}
+	return 0;
+}
+
+int main()
+{
+	printf("Lab2_flash: Flash W/R Testing\n");
+	test_flash();
+	return 0;
+}

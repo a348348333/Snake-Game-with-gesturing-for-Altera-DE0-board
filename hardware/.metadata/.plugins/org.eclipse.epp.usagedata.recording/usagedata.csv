@@ -1,0 +1,297 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,com.altera.sbtgui.launch,10.1.0.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1522383162398
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522383168106
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522383172859
+activated,view,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.CView",1522383173762
+error,log,,,"SOPC design not set.",1522383177140
+error,log,,,"CPU module not set.",1522383177144
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383177148
+error,log,,,"CPU architecture type not set. ",1522383177151
+error,log,,,"CPU master group not set.",1522383177155
+error,log,,,"SOPC design not set.",1522383177158
+error,log,,,"CPU module not set.",1522383177162
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383177166
+error,log,,,"CPU architecture type not set. ",1522383177170
+error,log,,,"CPU master group not set.",1522383177173
+error,log,,,"SOPC design not set.",1522383177180
+error,log,,,"CPU module not set.",1522383177184
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383177188
+error,log,,,"CPU architecture type not set. ",1522383177191
+error,log,,,"CPU master group not set.",1522383177194
+error,log,,,"SOPC design not set.",1522383177201
+error,log,,,"CPU module not set.",1522383177205
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383177208
+error,log,,,"CPU architecture type not set. ",1522383177212
+error,log,,,"CPU master group not set.",1522383177216
+error,log,,,"SOPC design not set.",1522383177223
+error,log,,,"CPU module not set.",1522383177229
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383177233
+error,log,,,"CPU architecture type not set. ",1522383177237
+error,log,,,"CPU master group not set.",1522383177241
+error,log,,,"SOPC design not set.",1522383178026
+error,log,,,"CPU module not set.",1522383178030
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383178034
+error,log,,,"CPU architecture type not set. ",1522383178038
+error,log,,,"CPU master group not set.",1522383178041
+error,log,,,"SOPC design not set.",1522383178050
+error,log,,,"CPU module not set.",1522383178054
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383178057
+error,log,,,"CPU architecture type not set. ",1522383178060
+error,log,,,"CPU master group not set.",1522383178064
+error,log,,,"SOPC design not set.",1522383178074
+error,log,,,"CPU module not set.",1522383178078
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383178081
+error,log,,,"CPU architecture type not set. ",1522383178085
+error,log,,,"CPU master group not set.",1522383178088
+error,log,,,"SOPC design not set.",1522383178095
+error,log,,,"CPU module not set.",1522383178099
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383178102
+error,log,,,"CPU architecture type not set. ",1522383178106
+error,log,,,"SOPC design not set.",1522383178109
+error,log,,,"CPU master group not set.",1522383178113
+error,log,,,"CPU module not set.",1522383178116
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383178124
+error,log,,,"SOPC design not set.",1522383178127
+error,log,,,"CPU architecture type not set. ",1522383178131
+error,log,,,"CPU module not set.",1522383178134
+error,log,,,"CPU master group not set.",1522383178138
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383178141
+error,log,,,"CPU architecture type not set. ",1522383178148
+error,log,,,"CPU master group not set.",1522383178152
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522383178233
+error,log,,,"SOPC design not set.",1522383178243
+error,log,,,"CPU module not set.",1522383178247
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383178254
+error,log,,,"CPU architecture type not set. ",1522383178258
+error,log,,,"CPU master group not set.",1522383178263
+error,log,,,"SOPC design not set.",1522383180570
+error,log,,,"CPU module not set.",1522383180574
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383180577
+error,log,,,"CPU architecture type not set. ",1522383180580
+error,log,,,"CPU master group not set.",1522383180584
+error,log,,,"SOPC design not set.",1522383180587
+error,log,,,"CPU module not set.",1522383180591
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383180594
+error,log,,,"CPU architecture type not set. ",1522383180598
+error,log,,,"CPU master group not set.",1522383180601
+error,log,,,"SOPC design not set.",1522383180609
+error,log,,,"CPU module not set.",1522383180613
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383180616
+error,log,,,"CPU architecture type not set. ",1522383180620
+error,log,,,"CPU master group not set.",1522383180623
+error,log,,,"SOPC design not set.",1522383180630
+error,log,,,"CPU module not set.",1522383180633
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383180636
+error,log,,,"CPU architecture type not set. ",1522383180640
+error,log,,,"CPU master group not set.",1522383180643
+error,log,,,"SOPC design not set.",1522383180650
+error,log,,,"CPU module not set.",1522383180653
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383180656
+error,log,,,"CPU architecture type not set. ",1522383180660
+error,log,,,"CPU master group not set.",1522383180663
+error,log,,,"SOPC design not set.",1522383181469
+error,log,,,"CPU module not set.",1522383181472
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383181476
+error,log,,,"CPU architecture type not set. ",1522383181480
+error,log,,,"CPU master group not set.",1522383181484
+error,log,,,"SOPC design not set.",1522383181493
+error,log,,,"CPU module not set.",1522383181496
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383181499
+error,log,,,"CPU architecture type not set. ",1522383181503
+error,log,,,"CPU master group not set.",1522383181506
+error,log,,,"SOPC design not set.",1522383181518
+error,log,,,"CPU module not set.",1522383181522
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383181525
+error,log,,,"CPU architecture type not set. ",1522383181528
+error,log,,,"CPU master group not set.",1522383181532
+error,log,,,"SOPC design not set.",1522383181539
+error,log,,,"CPU module not set.",1522383181543
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383181546
+error,log,,,"CPU architecture type not set. ",1522383181549
+error,log,,,"SOPC design not set.",1522383181553
+error,log,,,"CPU master group not set.",1522383181556
+error,log,,,"CPU module not set.",1522383181559
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383181566
+error,log,,,"SOPC design not set.",1522383181569
+error,log,,,"CPU architecture type not set. ",1522383181573
+error,log,,,"CPU module not set.",1522383181576
+error,log,,,"CPU master group not set.",1522383181579
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383181583
+error,log,,,"CPU architecture type not set. ",1522383181589
+error,log,,,"CPU master group not set.",1522383181593
+error,log,,,"SOPC design not set.",1522383181685
+error,log,,,"CPU module not set.",1522383181689
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383181693
+error,log,,,"CPU architecture type not set. ",1522383181697
+error,log,,,"CPU master group not set.",1522383181700
+error,log,,,"SOPC design not set.",1522383184472
+error,log,,,"CPU module not set.",1522383184475
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383184478
+error,log,,,"CPU architecture type not set. ",1522383184481
+error,log,,,"CPU master group not set.",1522383184485
+error,log,,,"SOPC design not set.",1522383184488
+error,log,,,"CPU module not set.",1522383184491
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383184495
+error,log,,,"CPU architecture type not set. ",1522383184498
+error,log,,,"CPU master group not set.",1522383184501
+error,log,,,"SOPC design not set.",1522383184507
+error,log,,,"CPU module not set.",1522383184511
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383184514
+error,log,,,"CPU architecture type not set. ",1522383184517
+error,log,,,"CPU master group not set.",1522383184521
+error,log,,,"SOPC design not set.",1522383184531
+error,log,,,"CPU module not set.",1522383184534
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383184537
+error,log,,,"CPU architecture type not set. ",1522383184540
+error,log,,,"CPU master group not set.",1522383184543
+error,log,,,"SOPC design not set.",1522383184549
+error,log,,,"CPU module not set.",1522383184552
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383184556
+error,log,,,"CPU architecture type not set. ",1522383184559
+error,log,,,"CPU master group not set.",1522383184562
+error,log,,,"SOPC design not set.",1522383185386
+error,log,,,"CPU module not set.",1522383185390
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383185393
+error,log,,,"CPU architecture type not set. ",1522383185397
+error,log,,,"CPU master group not set.",1522383185400
+error,log,,,"SOPC design not set.",1522383185408
+error,log,,,"CPU module not set.",1522383185411
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383185414
+error,log,,,"CPU architecture type not set. ",1522383185418
+error,log,,,"CPU master group not set.",1522383185421
+error,log,,,"SOPC design not set.",1522383185431
+error,log,,,"CPU module not set.",1522383185434
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383185438
+error,log,,,"CPU architecture type not set. ",1522383185441
+error,log,,,"CPU master group not set.",1522383185444
+error,log,,,"SOPC design not set.",1522383185450
+error,log,,,"CPU module not set.",1522383185454
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383185457
+error,log,,,"CPU architecture type not set. ",1522383185460
+error,log,,,"SOPC design not set.",1522383185464
+error,log,,,"CPU master group not set.",1522383185467
+error,log,,,"CPU module not set.",1522383185470
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383185477
+error,log,,,"SOPC design not set.",1522383185480
+error,log,,,"CPU architecture type not set. ",1522383185483
+error,log,,,"CPU module not set.",1522383185486
+error,log,,,"CPU master group not set.",1522383185490
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383185494
+error,log,,,"CPU architecture type not set. ",1522383185501
+error,log,,,"CPU master group not set.",1522383185504
+error,log,,,"SOPC design not set.",1522383185598
+error,log,,,"CPU module not set.",1522383185602
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383185606
+error,log,,,"CPU architecture type not set. ",1522383185610
+error,log,,,"CPU master group not set.",1522383185613
+error,log,,,"SOPC design not set.",1522383190031
+error,log,,,"CPU module not set.",1522383190034
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383190038
+error,log,,,"CPU architecture type not set. ",1522383190041
+error,log,,,"CPU master group not set.",1522383190044
+error,log,,,"SOPC design not set.",1522383190048
+error,log,,,"CPU module not set.",1522383190052
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383190055
+error,log,,,"CPU architecture type not set. ",1522383190058
+error,log,,,"CPU master group not set.",1522383190062
+error,log,,,"SOPC design not set.",1522383190068
+error,log,,,"CPU module not set.",1522383190072
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383190075
+error,log,,,"CPU architecture type not set. ",1522383190078
+error,log,,,"CPU master group not set.",1522383190081
+error,log,,,"SOPC design not set.",1522383190088
+error,log,,,"CPU module not set.",1522383190092
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383190096
+error,log,,,"CPU architecture type not set. ",1522383190100
+error,log,,,"CPU master group not set.",1522383190103
+error,log,,,"SOPC design not set.",1522383190110
+error,log,,,"CPU module not set.",1522383190113
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383190116
+error,log,,,"CPU architecture type not set. ",1522383190119
+error,log,,,"CPU master group not set.",1522383190123
+error,log,,,"SOPC design not set.",1522383190919
+error,log,,,"CPU module not set.",1522383190923
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383190927
+error,log,,,"CPU architecture type not set. ",1522383190930
+error,log,,,"CPU master group not set.",1522383190933
+error,log,,,"SOPC design not set.",1522383190942
+error,log,,,"CPU module not set.",1522383190945
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383190949
+error,log,,,"CPU architecture type not set. ",1522383190952
+error,log,,,"CPU master group not set.",1522383190955
+error,log,,,"SOPC design not set.",1522383190966
+error,log,,,"CPU module not set.",1522383190970
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383190977
+error,log,,,"CPU architecture type not set. ",1522383190981
+error,log,,,"CPU master group not set.",1522383190984
+error,log,,,"SOPC design not set.",1522383190992
+error,log,,,"CPU module not set.",1522383190995
+error,log,,,"SOPC design not set.",1522383190999
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383191002
+error,log,,,"CPU module not set.",1522383191006
+error,log,,,"CPU architecture type not set. ",1522383191009
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383191013
+error,log,,,"CPU master group not set.",1522383191016
+error,log,,,"CPU architecture type not set. ",1522383191019
+error,log,,,"CPU master group not set.",1522383191026
+error,log,,,"SOPC design not set.",1522383191029
+error,log,,,"CPU module not set.",1522383191036
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383191040
+error,log,,,"CPU architecture type not set. ",1522383191043
+error,log,,,"CPU master group not set.",1522383191046
+error,log,,,"SOPC design not set.",1522383191136
+error,log,,,"CPU module not set.",1522383191139
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383191143
+error,log,,,"CPU architecture type not set. ",1522383191147
+error,log,,,"CPU master group not set.",1522383191150
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522383196826
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522383198062
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522383198543
+error,log,,,"SOPC design not set.",1522383198575
+error,log,,,"CPU module not set.",1522383198580
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383198583
+error,log,,,"CPU architecture type not set. ",1522383198588
+error,log,,,"CPU master group not set.",1522383198594
+error,log,,,"SOPC design not set.",1522383198709
+error,log,,,"CPU module not set.",1522383198713
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522383198717
+error,log,,,"CPU architecture type not set. ",1522383198721
+error,log,,,"CPU master group not set.",1522383198728
+activated,view,com.altera.sbtgui.launch,10.1.0.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1522383198821
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1522383201843
+activated,view,com.altera.sbtgui.launch,10.1.0.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1522383207529
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522383208889
+activated,view,com.altera.sbtgui.launch,10.1.0.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1522383210436
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522383211670
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522383213297
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522383214227
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522383216207
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522383219093
+closed,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522383219171
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.debug.core"".",1522383219490
+error,log,,,"An exception occurred during launch change notification.",1522383219497
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.debug.core"".",1522383219501
+error,log,,,"An exception occurred while dispatching debug events.",1522383219505
+stopped,bundle,org.eclipse.compare.win32,1.0.0.I20090430-0408,"org.eclipse.compare.win32",1522383219522
+stopped,bundle,com.altera.sbtgui.ui,10.1.0.153,"com.altera.sbtgui.ui",1522383219522
+stopped,bundle,com.altera.debug.cdi.gdb.plugin,10.1.0.153,"com.altera.debug.cdi.gdb.plugin",1522383219522
+stopped,bundle,com.altera.sbtgui.flash.plugin,10.1.0.153,"com.altera.sbtgui.flash.plugin",1522383219554
+stopped,bundle,com.altera.sbtgui.gprof,10.1.0.153,"com.altera.sbtgui.gprof",1522383219560
+stopped,bundle,com.altera.sbtgui.launch,10.1.0.153,"com.altera.sbtgui.launch",1522383220430
+stopped,bundle,com.altera.sbtgui.project,10.1.0.153,"com.altera.sbtgui.project",1522383220430
+stopped,bundle,com.altera.sbtgui.core,10.1.0.153,"com.altera.sbtgui.core",1522383220430
+stopped,bundle,org.eclipse.cdt.debug.mi.ui,6.0.0.201002161416,"org.eclipse.cdt.debug.mi.ui",1522383220430
+stopped,bundle,org.eclipse.cdt.dsf.gdb.ui,2.0.0.201002161416,"org.eclipse.cdt.dsf.gdb.ui",1522383220432
+stopped,bundle,org.eclipse.cdt.dsf.ui,2.0.1.201002161416,"org.eclipse.cdt.dsf.ui",1522383220492
+stopped,bundle,org.eclipse.cdt.launch,6.0.0.201002161416,"org.eclipse.cdt.launch",1522383220492
+stopped,bundle,org.eclipse.cdt.debug.ui,6.0.0.201002161416,"org.eclipse.cdt.debug.ui",1522383220492
+stopped,bundle,org.eclipse.cdt.managedbuilder.ui,5.1.0.201002161416,"org.eclipse.cdt.managedbuilder.ui",1522383220501
+stopped,bundle,org.eclipse.cdt.make.ui,6.0.1.201002161416,"org.eclipse.cdt.make.ui",1522383220501
+stopped,bundle,org.eclipse.cdt.mylyn.ui,1.0.100.201002161416,"org.eclipse.cdt.mylyn.ui",1522383220501
+stopped,bundle,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui",1522383220501
+stopped,bundle,org.eclipse.mylyn.bugzilla.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1522383220501
+stopped,bundle,org.eclipse.mylyn.ide.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.ide.ui",1522383220501
+stopped,bundle,org.eclipse.mylyn.team.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.team.ui",1522383220501
+stopped,bundle,org.eclipse.mylyn.resources.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.resources.ui",1522383220502
+stopped,bundle,org.eclipse.mylyn.wikitext.tasks.ui,1.1.3.v20100217-0100-e3x,"org.eclipse.mylyn.wikitext.tasks.ui",1522383220531
+stopped,bundle,org.eclipse.mylyn.context.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.context.ui",1522383220531

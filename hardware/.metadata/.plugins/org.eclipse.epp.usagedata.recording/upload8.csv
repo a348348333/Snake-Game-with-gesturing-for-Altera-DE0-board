@@ -1,0 +1,351 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382382967
+opened,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382383020
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382383064
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382383078
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382383112
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382384308
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382385399
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382388064
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.selectAll",1522382388746
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.paste",1522382389156
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382479736
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382480896
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382502542
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382507663
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.save",1522382516571
+activated,view,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.CView",1522382518403
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382523050
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382536637
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382538868
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.TaskList",1522382541390
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1522382541985
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1522382543644
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382544965
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382548007
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382554056
+activated,view,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.CView",1522382611474
+activated,editor,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.editor.CEditor",1522382613187
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.save",1522382614176
+activated,view,org.eclipse.cdt.ui,5.1.2.201002161416,"org.eclipse.cdt.ui.CView",1522382615177
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382620046
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382623325
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382623613
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382627074
+error,log,,,"SOPC design not set.",1522382639610
+error,log,,,"CPU module not set.",1522382639614
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382639618
+error,log,,,"CPU architecture type not set. ",1522382639621
+error,log,,,"CPU master group not set.",1522382639625
+error,log,,,"SOPC design not set.",1522382639628
+error,log,,,"CPU module not set.",1522382639632
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382639635
+error,log,,,"CPU architecture type not set. ",1522382639638
+error,log,,,"CPU master group not set.",1522382639642
+error,log,,,"SOPC design not set.",1522382639649
+error,log,,,"CPU module not set.",1522382639653
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382639656
+error,log,,,"CPU architecture type not set. ",1522382639660
+error,log,,,"CPU master group not set.",1522382639663
+error,log,,,"SOPC design not set.",1522382639671
+error,log,,,"CPU module not set.",1522382639674
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382639678
+error,log,,,"CPU architecture type not set. ",1522382639682
+error,log,,,"CPU master group not set.",1522382639686
+error,log,,,"SOPC design not set.",1522382639695
+error,log,,,"CPU module not set.",1522382639700
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382639708
+error,log,,,"CPU architecture type not set. ",1522382639713
+error,log,,,"CPU master group not set.",1522382639717
+error,log,,,"SOPC design not set.",1522382640497
+error,log,,,"CPU module not set.",1522382640502
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382640505
+error,log,,,"CPU architecture type not set. ",1522382640509
+error,log,,,"CPU master group not set.",1522382640512
+error,log,,,"SOPC design not set.",1522382640520
+error,log,,,"CPU module not set.",1522382640523
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382640526
+error,log,,,"CPU architecture type not set. ",1522382640529
+error,log,,,"CPU master group not set.",1522382640532
+error,log,,,"SOPC design not set.",1522382640543
+error,log,,,"CPU module not set.",1522382640546
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382640550
+error,log,,,"CPU architecture type not set. ",1522382640554
+error,log,,,"CPU master group not set.",1522382640557
+error,log,,,"SOPC design not set.",1522382640563
+error,log,,,"CPU module not set.",1522382640567
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382640570
+error,log,,,"CPU architecture type not set. ",1522382640574
+error,log,,,"SOPC design not set.",1522382640578
+error,log,,,"CPU master group not set.",1522382640581
+error,log,,,"CPU module not set.",1522382640585
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382640591
+error,log,,,"SOPC design not set.",1522382640594
+error,log,,,"CPU architecture type not set. ",1522382640598
+error,log,,,"CPU module not set.",1522382640601
+error,log,,,"CPU master group not set.",1522382640604
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382640607
+error,log,,,"CPU architecture type not set. ",1522382640614
+error,log,,,"CPU master group not set.",1522382640617
+error,log,,,"SOPC design not set.",1522382640679
+error,log,,,"CPU module not set.",1522382640682
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382640686
+error,log,,,"CPU architecture type not set. ",1522382640690
+error,log,,,"CPU master group not set.",1522382640694
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1522382640699
+error,log,,,"SOPC design not set.",1522382664683
+error,log,,,"CPU module not set.",1522382664686
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382664690
+error,log,,,"CPU architecture type not set. ",1522382664693
+error,log,,,"CPU master group not set.",1522382664697
+error,log,,,"SOPC design not set.",1522382664700
+error,log,,,"CPU module not set.",1522382664704
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382664707
+error,log,,,"CPU architecture type not set. ",1522382664711
+error,log,,,"CPU master group not set.",1522382664715
+error,log,,,"SOPC design not set.",1522382664722
+error,log,,,"CPU module not set.",1522382664725
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382664729
+error,log,,,"CPU architecture type not set. ",1522382664732
+error,log,,,"CPU master group not set.",1522382664735
+error,log,,,"SOPC design not set.",1522382664742
+error,log,,,"CPU module not set.",1522382664745
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382664748
+error,log,,,"CPU architecture type not set. ",1522382664751
+error,log,,,"CPU master group not set.",1522382664755
+error,log,,,"SOPC design not set.",1522382664761
+error,log,,,"CPU module not set.",1522382664765
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382664768
+error,log,,,"CPU architecture type not set. ",1522382664772
+error,log,,,"CPU master group not set.",1522382664775
+error,log,,,"SOPC design not set.",1522382665593
+error,log,,,"CPU module not set.",1522382665597
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382665600
+error,log,,,"CPU architecture type not set. ",1522382665604
+error,log,,,"CPU master group not set.",1522382665607
+error,log,,,"SOPC design not set.",1522382665614
+error,log,,,"CPU module not set.",1522382665618
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382665622
+error,log,,,"CPU architecture type not set. ",1522382665625
+error,log,,,"CPU master group not set.",1522382665629
+error,log,,,"SOPC design not set.",1522382665639
+error,log,,,"CPU module not set.",1522382665643
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382665646
+error,log,,,"CPU architecture type not set. ",1522382665649
+error,log,,,"CPU master group not set.",1522382665653
+error,log,,,"SOPC design not set.",1522382665659
+error,log,,,"Requested JTAG chain broken",1522382665662
+error,log,,,"CPU module not set.",1522382665665
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382665669
+error,log,,,"SOPC design not set.",1522382665672
+error,log,,,"CPU architecture type not set. ",1522382665675
+error,log,,,"CPU module not set.",1522382665678
+error,log,,,"CPU master group not set.",1522382665681
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382665685
+error,log,,,"CPU architecture type not set. ",1522382665691
+error,log,,,"SOPC design not set.",1522382665694
+error,log,,,"CPU master group not set.",1522382665697
+error,log,,,"CPU module not set.",1522382665701
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382665707
+error,log,,,"SOPC design not set.",1522382665711
+error,log,,,"CPU architecture type not set. ",1522382665714
+error,log,,,"CPU module not set.",1522382665718
+error,log,,,"CPU master group not set.",1522382665724
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382665728
+error,log,,,"CPU architecture type not set. ",1522382665734
+error,log,,,"CPU master group not set.",1522382665741
+error,log,,,"SOPC design not set.",1522382667510
+error,log,,,"CPU module not set.",1522382667514
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382667517
+error,log,,,"CPU architecture type not set. ",1522382667520
+error,log,,,"CPU master group not set.",1522382667523
+error,log,,,"SOPC design not set.",1522382667535
+error,log,,,"CPU module not set.",1522382667539
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382667543
+error,log,,,"CPU architecture type not set. ",1522382667546
+error,log,,,"CPU master group not set.",1522382667549
+error,log,,,"Select one of the available target connection paths.",1522382667553
+error,log,,,"SOPC design not set.",1522382667558
+error,log,,,"CPU module not set.",1522382667561
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382667564
+error,log,,,"CPU architecture type not set. ",1522382667568
+error,log,,,"CPU master group not set.",1522382667571
+error,log,,,"Select one of the available target connection paths.",1522382667574
+error,log,,,"Select one of the available target Nios II byte stream device paths.",1522382667577
+error,log,,,"SOPC design not set.",1522382667582
+error,log,,,"CPU module not set.",1522382667586
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382667589
+error,log,,,"CPU architecture type not set. ",1522382667593
+error,log,,,"CPU master group not set.",1522382667597
+error,log,,,"Select one of the available target connection paths.",1522382667600
+error,log,,,"Select one of the available target Nios II byte stream device paths.",1522382667604
+error,log,,,"SOPC design not set.",1522382667609
+error,log,,,"CPU module not set.",1522382667612
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382667616
+error,log,,,"CPU architecture type not set. ",1522382667619
+error,log,,,"CPU master group not set.",1522382667622
+error,log,,,"Select one of the available target connection paths.",1522382667625
+error,log,,,"Select one of the available target Nios II byte stream device paths.",1522382667629
+error,log,,,"SOPC design not set.",1522382667633
+error,log,,,"CPU module not set.",1522382667636
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382667640
+error,log,,,"CPU architecture type not set. ",1522382667643
+error,log,,,"CPU master group not set.",1522382667646
+error,log,,,"Expected base address of system ID component is undefined.",1522382667649
+error,log,,,"Select one of the available target connection paths.",1522382667653
+error,log,,,"Select one of the available target Nios II byte stream device paths.",1522382667656
+error,log,,,"SOPC design not set.",1522382667659
+error,log,,,"CPU module not set.",1522382667662
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382667665
+error,log,,,"CPU architecture type not set. ",1522382667669
+error,log,,,"CPU master group not set.",1522382667672
+error,log,,,"Expected base address of system ID component is undefined.",1522382667676
+error,log,,,"Select one of the available target connection paths.",1522382667680
+error,log,,,"Select one of the available target Nios II byte stream device paths.",1522382667684
+error,log,,,"SOPC design not set.",1522382667688
+error,log,,,"CPU module not set.",1522382667691
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382667695
+error,log,,,"CPU architecture type not set. ",1522382667698
+error,log,,,"CPU master group not set.",1522382667701
+error,log,,,"Expected base address of system ID component is undefined.",1522382667705
+error,log,,,"Select one of the available target connection paths.",1522382667708
+error,log,,,"Select one of the available target Nios II byte stream device paths.",1522382667712
+error,log,,,"SOPC design not set.",1522382667715
+error,log,,,"CPU module not set.",1522382667718
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382667722
+error,log,,,"CPU architecture type not set. ",1522382667725
+error,log,,,"CPU master group not set.",1522382667729
+error,log,,,"Expected base address of system ID component is undefined.",1522382667732
+error,log,,,"Select one of the available target connection paths.",1522382667735
+error,log,,,"Select one of the available target Nios II byte stream device paths.",1522382667739
+error,log,,,"SOPC design not set.",1522382667743
+error,log,,,"CPU module not set.",1522382667747
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382667750
+error,log,,,"CPU architecture type not set. ",1522382667753
+error,log,,,"CPU master group not set.",1522382667757
+error,log,,,"Expected base address of system ID component is undefined.",1522382667760
+error,log,,,"Select one of the available target connection paths.",1522382667764
+error,log,,,"Select one of the available target Nios II byte stream device paths.",1522382667767
+error,log,,,"SOPC design not set.",1522382668568
+error,log,,,"CPU module not set.",1522382668573
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382668576
+error,log,,,"CPU architecture type not set. ",1522382668580
+error,log,,,"CPU master group not set.",1522382668583
+error,log,,,"Expected base address of system ID component is undefined.",1522382668587
+error,log,,,"SOPC design not set.",1522382668592
+error,log,,,"CPU module not set.",1522382668596
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382668599
+error,log,,,"CPU architecture type not set. ",1522382668602
+error,log,,,"CPU master group not set.",1522382668606
+error,log,,,"Expected base address of system ID component is undefined.",1522382668609
+error,log,,,"SOPC design not set.",1522382668621
+error,log,,,"CPU module not set.",1522382668624
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382668628
+error,log,,,"CPU architecture type not set. ",1522382668631
+error,log,,,"CPU master group not set.",1522382668634
+error,log,,,"Expected base address of system ID component is undefined.",1522382668638
+error,log,,,"SOPC design not set.",1522382668643
+error,log,,,"CPU module not set.",1522382668646
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382668650
+error,log,,,"CPU architecture type not set. ",1522382668653
+error,log,,,"CPU master group not set.",1522382668657
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382668660
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382668664
+error,log,,,"SOPC design not set.",1522382668669
+error,log,,,"CPU module not set.",1522382668672
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382668676
+error,log,,,"CPU architecture type not set. ",1522382668679
+error,log,,,"CPU master group not set.",1522382668682
+error,log,,,"SOPC design not set.",1522382668689
+error,log,,,"CPU module not set.",1522382668692
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382668696
+error,log,,,"CPU architecture type not set. ",1522382668699
+error,log,,,"SOPC design not set.",1522382668702
+error,log,,,"CPU master group not set.",1522382668706
+error,log,,,"CPU module not set.",1522382668709
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382668716
+error,log,,,"SOPC design not set.",1522382668719
+error,log,,,"CPU architecture type not set. ",1522382668723
+error,log,,,"CPU module not set.",1522382668726
+error,log,,,"CPU master group not set.",1522382668729
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382668733
+error,log,,,"CPU architecture type not set. ",1522382668740
+error,log,,,"CPU master group not set.",1522382668743
+error,log,,,"Target must be configured before use",1522382668797
+error,log,,,"SOPC design not set.",1522382668836
+error,log,,,"CPU module not set.",1522382668841
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382668845
+error,log,,,"CPU architecture type not set. ",1522382668848
+error,log,,,"CPU master group not set.",1522382668851
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382668854
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382668858
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669143
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669146
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669171
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669174
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669180
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669183
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669199
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669203
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669209
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669212
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669229
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669232
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669237
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669240
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669257
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669260
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669266
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669269
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669286
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669290
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669294
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669297
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669314
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669317
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669322
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669326
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669343
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669347
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669352
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669356
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669372
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669376
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669381
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669384
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669399
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669403
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669411
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669414
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669431
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669434
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669439
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669442
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382669458
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382669461
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382670599
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382670603
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382670988
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382670991
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382671008
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382671011
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382671121
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382671125
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382671142
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382671145
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382671247
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382671250
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382671267
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382671270
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382671951
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382671955
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382671972
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382671975
+error,log,,,"Connected system ID hash not found on target at expected base address.",1522382673130
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382673134
+error,log,,,"SOPC design not set.",1522382676399
+error,log,,,"CPU module not set.",1522382676402
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1522382676406
+error,log,,,"CPU architecture type not set. ",1522382676409
+error,log,,,"CPU master group not set.",1522382676412
+error,log,,,"Connected system timestamp not found on target at expected base address.",1522382676419
